@@ -40,7 +40,7 @@ const String version = "v3.0.1009";
 //适配艾韵智能遥控器
 //#define SUPPORT_XG_MAGIC_BOX
 
-#define YYXBC_WEBCONFIG
+//#define YYXBC_WEBCONFIG
 
 #define YYXBC_WITH_433
 #define YYXBC_WITH_315
